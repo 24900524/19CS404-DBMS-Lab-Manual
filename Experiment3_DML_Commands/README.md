@@ -372,4 +372,3 @@ where hiredate between '2022-01-01' and '2022-12-31';
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
-](https://github.com/Dhanujam/19CS404-DBMS-Lab-Manual/blob/main/Experiment3_DML_Commands/README.md)
